@@ -1,4 +1,4 @@
-# Bangla-C-Language
+# Bangla C Language
 
 ## সিনট্যাক্স 
 ```
