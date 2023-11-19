@@ -79,4 +79,7 @@
 ### বাংলা সি ইডিটর
 <b>```বাংলা সি ইডিটর```</b> তৈরীর কাজ চলতেছে। আমরা শীঘ্রই <b>```বাংলা সি ইডিটর```</b> কে নিয়ে হাজির হবো ইনশাল্লাহ।
 
+### Bangla Code to C Code Coverter
+
+[```Bangla to C```](https://bangla-code-to-c-code-coverter.mdanisuranisur.repl.co/){:target="_blank"}
 
