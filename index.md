@@ -81,5 +81,5 @@
 
 ### Bangla Code to C Code Coverter
 
-[```Bangla to C```](https://bangla-code-to-c-code-coverter.mdanisuranisur.repl.co/){:target="_blank"}
+[```Bangla to C Converter```](https://bangla-code-to-c-code-coverter.mdanisuranisur.repl.co/){:target="_blank"}
 
