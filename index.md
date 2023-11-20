@@ -259,6 +259,10 @@ do while loop:
  ফেরত ০;
 }
 ```
+### Bangla to C Code Coverter
+
+[```Bangla to C Converter```](https://bangla-code-to-c-code-coverter.mdanisuranisur.repl.co/){:target="_blank"}
+
 ### বা</>কোডিং- বাংলায় কোডিং শিখুন
 ``` জাভা স্ক্রিপ্ট``` সম্বলিত, ```চা-স্ক্রিপ্ট``` থেকে নির্মিত আমার [``` বা</>কোডিং```](https://anisurrahmanlikhon.github.io/Ba-Coding/){:target="_blank"}
 
@@ -266,7 +270,5 @@ do while loop:
 ### বাংলা সি ইডিটর
 <b>```বাংলা সি ইডিটর```</b> তৈরীর কাজ চলতেছে। আমরা শীঘ্রই <b>```বাংলা সি ইডিটর```</b> কে নিয়ে হাজির হবো ইনশাল্লাহ।
 
-### Bangla Code to C Code Coverter
 
-[```Bangla to C Converter```](https://bangla-code-to-c-code-coverter.mdanisuranisur.repl.co/){:target="_blank"}
 
