@@ -264,7 +264,7 @@ do while loop:
 [<b>```বাংলা থেকে সি কনভার্টার```</b>](https://bangla-code-to-c-code-coverter.mdanisuranisur.repl.co/){:target="_blank"}
 
 ### বা</>কোডিং- বাংলায় কোডিং শিখুন
-``` জাভা স্ক্রিপ্ট``` সম্বলিত, ```চা-স্ক্রিপ্ট``` থেকে নির্মিত আমার [``` বা</>কোডিং```](https://anisurrahmanlikhon.github.io/Ba-Coding/){:target="_blank"}
+```জাভা স্ক্রিপ্ট``` সম্বলিত, ```চা-স্ক্রিপ্ট``` থেকে নির্মিত আমার [``` বা</>কোডিং```](https://anisurrahmanlikhon.github.io/Ba-Coding/){:target="_blank"}
 
 
 ### বাংলা সি ইডিটর
