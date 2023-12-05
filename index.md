@@ -1,32 +1,10 @@
-<html><head>
 
-   <script type="text/javascript" src="http://ajblk.github.io/SyntaxHighlightGenerator-v3.0/scripts/sh-v3.0-min.js"></script>
-<link type="text/css" rel="stylesheet" href="http://ajblk.github.io/SyntaxHighlightGenerator-v3.0/styles/shCoreEmacs.css"/>
-
-</head>
-
-<body>
-<script type="text/javascript">SyntaxHighlighter.initialize();</script>
-
-
-<div id="highlighterMainDiv_836637" class="syntaxhighlighter applescript"><div id="toolbarContainer_836637" class="toolbar"><span><a href="#" class="toolbar_item command_help help">?</a></span></div><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td>&nbsp;</td></tr><tr><td class="gutter"><div class="line number1 index0 alt2">1</div><div class="line number2 index1 alt1">2</div><div class="line number3 index2 alt2">3</div><div class="line number4 index3 alt1">4</div><div class="line number5 index4 alt2">5</div><div class="line number6 index5 alt1">6</div></td><td id="codeContainer_836637" class="code"><div id="container_836637" class="container"><div class="line number1 index0 alt2"><code class="applescript comments"># অন্তর্ভুক্ত &lt; স্ট্যান্ডার্ড_ইন_আউট.হেডার &gt;</code></div><div class="line number2 index1 alt1"><code class="applescript plain">পূর্ণ মৌলিক</code><code class="applescript color1">(</code><code class="applescript color1">)</code></div><div class="line number3 index2 alt2"><code class="applescript color1">{</code></div><div class="line number4 index3 alt1"><code class="applescript spaces">&nbsp;&nbsp;&nbsp;</code><code class="applescript plain">দেখাও</code><code class="applescript color1">(</code><code class="applescript string">"ওহে বিশ্ব"</code><code class="applescript color1">)</code><code class="applescript plain">;</code></div><div class="line number5 index4 alt2"><code class="applescript spaces">&nbsp;&nbsp;&nbsp;</code><code class="applescript plain">ফেরত ০;</code></div><div class="line number6 index5 alt1"><code class="applescript color1">}</code></div></div></td></tr><tr><td>&nbsp;</td></tr><tr><td>&nbsp;</td></tr></tbody></table></div>
-
-<pre id="presourcecode_836637" class="displaysourcecode" >
-# অন্তর্ভুক্ত &lt; স্ট্যান্ডার্ড_ইন_আউট.হেডার &gt;
-পূর্ণ মৌলিক()
-{
-   দেখাও("ওহে বিশ্ব");
-   ফেরত ০;
-}
-</pre>
-
-</body></html>
 
 # বাংলা সি ভাষা
 
 ### সিনট্যাক্স 
-
-```go
+<div style="background-color: black;">
+```perl
 # অন্তর্ভুক্ত < স্ট্যান্ডার্ড_ইন_আউট.হেডার >
 পূর্ণ মৌলিক()
 {
@@ -34,6 +12,7 @@
    ফেরত ০;
 }
 ```
+</div>
 
 - ```# অন্তর্ভুক্ত < স্ট্যান্ডার্ড_ইন_আউট.হেডার >``` হচ্ছে C language এ হেডার ফাইল. ```#include<stdio.h>```
 - ```পূর্ণ``` হলো ```int``` ও ```মৌলিক()``` হচ্ছে ```main()``` ফাংশন।
