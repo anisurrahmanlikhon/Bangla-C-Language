@@ -814,9 +814,9 @@ Library Function
 <b>নথিপত্রের কেডটি সি কোডে কনভার্ট করে</b> [```এখানে```](https://www.browxy.com/) রান করতে হবে।
 
 
-### বাংলা থেকে সি কনভার্টার
+### বাংলা থেকে সি কোড
 
-[<b>```বাংলা থেকে সি কনভার্টার```</b>](https://bangla-code-to-c-code-coverter.mdanisuranisur.repl.co/)
+[<b>```বাংলা থেকে সি কোড```</b>](https://anisurrahmanlikhon.github.io/Bangla-to-C-Code/)
 
 ### বা</>কোডিং- বাংলায় কোডিং শিখুন
 ```জাভা স্ক্রিপ্ট``` সম্বলিত, ```চা-স্ক্রিপ্ট``` থেকে নির্মিত আমার [<b>```বা</>কোডিং```</b>](https://anisurrahmanlikhon.github.io/Ba-Coding/)
