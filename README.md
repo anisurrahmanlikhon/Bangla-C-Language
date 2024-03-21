@@ -816,7 +816,7 @@ Library Function
 
 ### বাংলা থেকে সি কোড
 
-[<b>```বাংলা থেকে সি কোড```</b>](https://anisurrahmanlikhon.github.io/Bangla-to-C-Code/)
+[<b>```বাংলা থেকে সি কোড```</b>]( https://github.com/anisurrahmanlikhon/Bangla-to-C-Code)
 
 ### বা</>কোডিং- বাংলায় কোডিং শিখুন
 ```জাভা স্ক্রিপ্ট``` সম্বলিত, ```চা-স্ক্রিপ্ট``` থেকে নির্মিত আমার [<b>```বা</>কোডিং```</b>](https://anisurrahmanlikhon.github.io/Ba-Coding/)
