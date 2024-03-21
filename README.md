@@ -814,7 +814,7 @@ Library Function
 <b>নথিপত্রের কেডটি সি কোডে কনভার্ট করে</b> [```এখানে```](https://www.browxy.com/) রান করতে হবে।
 
 
-### বাংলা থেকে সি কোড
+### বাংলা থেকে সি কোড রিপোজিটরী
 
 [<b>```বাংলা থেকে সি কোড```</b>]( https://github.com/anisurrahmanlikhon/Bangla-to-C-Code)
 
